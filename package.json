@@ -1,0 +1,20 @@
+{
+  "name": "tsc-proj-4--todo",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "tsc-proj-4--todo": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/inquirer": "^9.0.3",
+    "inquirer": "^9.1.4"
+  }
+}
